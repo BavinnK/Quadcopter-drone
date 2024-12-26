@@ -1,0 +1,10 @@
+| Component                | Quantity | Specification              | Link                      |
+|--------------------------|----------|----------------------------|-------------------------------------------------------------------|
+| 1000KV Brushless Motor   | 4        | A2212/13T                  | https://ardunic.com/product/A2212-Brushless-Motor-soldered-ends   |
+| ESC 30A SimonK           | 4        | 30A SimonK                 | https://ardunic.com/product/Simonk-ESC-12A-20A-30A                |
+| F450 Frame               | 1        | With integrated PDB        | https://ardunic.com/product/Quadcopter-Frame-F450                 |
+| KK2.1.5 Flight Controller| 1        | Firmware: v1.6             | https://ardunic.com/product/KK2-1-5-Flight-Controller             |
+| lipo-battery             | 1        | 2200mAh capacity           | https://ardunic.com/product/Red-LiPo-Battery-2S-7-4V-2200mAh-25C  |
+| Turnigy transmitter      | 1        | 9X 9Ch Mode 2              | https://hobbyking.com/en_us/turnigy-9x-9ch-mode-2-transmitter-w-module-ia8-receiver-afhds-2a-system.html?srsltid=AfmBOopzn8Fuq1wjzp-9eA0Mr99TzUJedlUrDXQCccacSbZz9rEUX88m&___store=en_us
+| Turnigy receiver         | 1        | iA8 (AFHDS 2A system)      | same link as the transmitter link
+
